@@ -1,0 +1,51 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (e.g., CSV, Parquet, and SQLite files)
+*.csv
+*.parquet
+*.db
+*.sqlite
+*.xls
+*.xlsx
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore log files
+*.log
+
+# Ignore output images or graphs
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Ignore HTML files generated for visualizations
+*.html
+
+# Ignore temporary and cache files
+*.tmp
+*.temp
+*.cache
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore pip and conda environments
+*.env
+*.conda
+*.lock
+
+# Ignore requirements.txt if generated dynamically
+!requirements.txt
+
+# Specific ignored files from your project
+4501_Project.ipynb
