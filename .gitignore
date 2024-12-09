@@ -47,5 +47,5 @@ env/
 # Ignore requirements.txt if generated dynamically
 !requirements.txt
 
-# Specific ignored files from your project
+# project
 4501_Project.ipynb
